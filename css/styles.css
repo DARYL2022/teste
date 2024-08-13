@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://images3.alphacoders.com/135/thumb-1920-1355363.png');
+    background-size: cover;
+    background-position: center;
+    height:100vh;display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+h1{
+    position: relative;
+    color:black;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(103, 103, 255);
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: rgb(67, 67, 255);
+}
+.icon{
+    max-width: 10%;
+    height: auto;
+}
+.icon1{
+    position: relative;
+    max-width: 10%;
+    height: auto;
+    top:30px;
+}
+.icon2{
+    position: relative;
+    max-width: 10%;
+    height: auto;
+    top:60px;
+}
+.icon3{
+    position: relative;
+    max-width: 10%;
+    height: auto;
+    top:90px;
+}
+.leg{
+    color: white;
+    font-size: 11px;
+}
+.leg1{
+    position: relative;
+    color:white;
+    font-size: 11px;
+    top:30px;
+}
+.leg2{
+    position: relative;
+    color:white;
+    font-size: 11px;
+    top:60px;
+}
+.leg3{
+    position: relative;
+    color:white;
+    font-size: 11px;
+    top:90px;
+}
